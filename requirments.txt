@@ -1,0 +1,8 @@
+scrapy>=2.8
+scrapy-playwright>=0.0.20
+pandas
+openpyxl
+fake-useragent
+gspread
+oauth2client
+playwright

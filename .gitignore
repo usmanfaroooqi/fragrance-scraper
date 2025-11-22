@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+*.egg-info
+
+# Scrapy & outputs
+*.csv
+*.json
+*.jl
+*.xlsx
+logs/
